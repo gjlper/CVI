@@ -1,5 +1,5 @@
 # Main config file for icon theme.
-theme = "hugo-icon"
+theme = "ananke"
 baseURL = "https://cvi-iitm.netlify.com/"
 languageCode = "en-AU"
 title = "CVI"
