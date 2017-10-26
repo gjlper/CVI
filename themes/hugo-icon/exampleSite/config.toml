@@ -1,19 +1,19 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://cvi-iitm.netlify.com/"
+baseURL = "https://www.example.com/"
 languageCode = "en-AU"
-title = "CVI"
+title = "My Awesome Title"
 
 # Metadata
 [params]
-  author = "Varun Sundar"
-  description = "Official Webpage for Computer Vision and Intelligence IIT Madras"
+  author = "Your name"
+  description = "Cool description"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Computer Vision and Intelligence"
-  description = "Funky caption"
+  title = "Create awesome things for better web"
+  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
 # Navigation section
 [params.nav]
@@ -210,3 +210,4 @@ title = "CVI"
   vine = "#"
   linkedin = "#"
   instagram = "#"
+  
