@@ -11,7 +11,7 @@ title = "CVI"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/fb4.png"
   title = "Computer Vision and Intelligence"
   description = "Funky caption"
 
