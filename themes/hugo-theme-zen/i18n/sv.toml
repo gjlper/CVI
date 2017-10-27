@@ -1,0 +1,23 @@
+[menu_title]
+other = "Huvudmeny"
+
+[menu_home]
+other = "Hem"
+
+[menu_mobile]
+other = "Meny"
+
+[pager_next]
+other = "Nästa"
+
+[pager_prev]
+other = "Föregående"
+
+[taxo_tags]
+other = "Taggar"
+
+[search_placeholder]
+other = "Sök"
+
+[search_title]
+other = "Ange de villkor du vill söka efter."
