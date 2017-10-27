@@ -32,7 +32,7 @@ title = "CVI"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/map.png"
     [[params.mission.images.list]]
       img = "images/img_2.jpg"
     [[params.mission.images.list]]
@@ -66,26 +66,25 @@ title = "CVI"
   [[params.services.item]]
     icon = "icon-present"
     title = "Deep Learning"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Cutting edge models for solving real world problems"
 
   [[params.services.item]]
     icon = "icon-eye"
     title = "Computer Vision"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "First we teach them to see, then they help us see better."
 
   [[params.services.item]]
     icon = "icon-paper-plane"
     title = "Reinforcement Learning"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
+    description = "Making agents learn."
 
 # Work section
 [params.work]
   enable = true
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Bounding Box Detection"
+    subtitle = ""
     img = "images/img_1.jpg"
 
   [[params.work.item]]
