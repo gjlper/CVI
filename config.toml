@@ -83,44 +83,44 @@ title = "CVI"
   enable = true
 
   [[params.work.item]]
-    title = "Bounding Box Detection"
-    subtitle = ""
-    img = "images/img_1.jpg"
+    title = "Computer Vision"
+    subtitle = "Bounding Box Detection"
+    img = "images/obj.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    title = "Reinforcement Learning"
+    subtitle = "Aplha Go"
+    img = "images/alpha.png"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    title = "Deep Learning"
+    subtitle = "RNN - LSTMs"
+    img = "images/lstm.png"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
+    title = "Computer Vision"
+    subtitle = "Medical Imaging"
+    img = "images/medi.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    title = "Deep Learning"
+    subtitle = "Neural Networks Inspiration"
+    img = "images/neu.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
+  title = "Computer Vision"
+  subtitle = "Medical Imaging"
+  img = "images/medical.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
+    title = "Reinforcement Learning"
+    subtitle = "Deep Mind"
+    img = "images/deep.gif"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_4.jpg"
+    title = "Computer Vision"
+    subtitle = "Vision perlog"
+    img = "images/im1.jpg"
 
 # Team section
 [params.team]
