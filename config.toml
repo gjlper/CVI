@@ -34,11 +34,11 @@ title = "CVI"
     [[params.mission.images.list]]
       img = "images/map.png"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/sup.png"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/tx2.jpg"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "images/sift.jpg"
 
   [[params.mission.item]]
     weight = 1
@@ -83,19 +83,19 @@ title = "CVI"
   enable = true
 
   [[params.work.item]]
-    title = "Computer Vision"
-    subtitle = "Bounding Box Detection"
-    img = "images/obj.jpg"
-
-  [[params.work.item]]
     title = "Reinforcement Learning"
     subtitle = "Aplha Go"
     img = "images/alpha.png"
 
   [[params.work.item]]
-    title = "Deep Learning"
-    subtitle = "RNN - LSTMs"
-    img = "images/lstm.png"
+    title = "Computer Vision"
+    subtitle = "Bounding Box Detection"
+    img = "images/obj.jpg"
+
+    [[params.work.item]]
+      title = "Deep Learning"
+      subtitle = "Neural Networks Inspiration"
+      img = "images/neu.jpeg"
 
   [[params.work.item]]
     title = "Computer Vision"
@@ -103,14 +103,15 @@ title = "CVI"
     img = "images/medi.jpg"
 
   [[params.work.item]]
-    title = "Deep Learning"
-    subtitle = "Neural Networks Inspiration"
-    img = "images/neu.jpg"
-
-  [[params.work.item]]
   title = "Computer Vision"
   subtitle = "Medical Imaging"
   img = "images/medical.jpg"
+
+    [[params.work.item]]
+      title = "Deep Learning"
+      subtitle = "RNN - LSTMs"
+      img = "images/lstm.png"
+
 
   [[params.work.item]]
     title = "Reinforcement Learning"
@@ -131,7 +132,7 @@ title = "CVI"
   [[params.team.item]]
     name = "Aravinth Muthu"
     position = "Club Head"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Third year undergraduate at IIT Madras"
     img = "images/aravinth.jpg"
     facebook = "https://www.facebook.com/aravinth.muthu.3"
     twitter = "#"
@@ -140,7 +141,7 @@ title = "CVI"
   [[params.team.item]]
     name = "Sidharth Ramesh"
     position = "Club Head"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Third year undergraduate at IIT Madras"
     img = "images/sid.jpeg"
     facebook = "https://www.facebook.com/sidharth.r98"
     twitter = "#"
