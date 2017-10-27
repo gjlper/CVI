@@ -131,24 +131,20 @@ title = "CVI"
 
   [[params.team.item]]
     name = "Aravinth Muthu"
-    position = "Chief legend"
+    position = "Club Head"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person1.jpg"
-    facebook = "#"
+    img = "images/aravinth.jpg"
+    facebook = "https://www.facebook.com/aravinth.muthu.3"
     twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
+    github = ""
 
   [[params.team.item]]
     name = "Sidharth Ramesh"
-    position = "Chief overlord"
+    position = "Club Head"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person2.jpg"
+    img = "images/sid.jpeg"
     facebook = "#"
     twitter = "#"
-    dribbble = "#"
-    instagram = "#"
     github = "#"
 
 
