@@ -1,11 +1,7 @@
-+++
-title = "about"
-description = "about this site"
-date = "2014-09-27"
-slug = "about time"
-+++
+---
+title: "A"
+date: 2017-10-27T11:44:42+05:30
+draft: true
+---
 
-## about us
-
-i'm speechless
-:wq
+We are CVI, IITM.
