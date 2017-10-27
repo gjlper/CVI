@@ -13,7 +13,7 @@ title = "CVI"
 [params.hero]
   img = "images/CVI.jpg"
   title = "Computer Vision and Intelligence"
-  description = ""
+  description = "[Blog](https://cvi-blog.netlify.com/)"
 
 # Navigation section
 [params.nav]
