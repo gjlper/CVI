@@ -43,9 +43,17 @@ title = "CVI"
   [[params.mission.item]]
     weight = 1
     name = "marketing"
-    title = "Marketing"
-    subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline'>Get In Touch</a></p>"
+    title = "Objective"
+    subtitle = "To make robust scalable and sustainable solutions for problems in the society using computer vision."
+    description = ""
+
+    [[params.mission.item]]
+      weight = 2
+      name = "analysis"
+      title = "About Us"
+      subtitle = "This is the official webpage of the Computer Vision Intelligence Group, in IIT Madras.
+We make computers see and give them life."
+      description = ""
 
 
 # Services section
@@ -53,38 +61,24 @@ title = "CVI"
   enable = true
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Our Services"
+  title = "What We Do"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
     icon = "icon-present"
-    title = "Web Development"
+    title = "Deep Learning"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Retina Ready"
+    title = "Computer Vision"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
     icon = "icon-paper-plane"
-    title = "Light Speed"
+    title = "Reinforcement Learning"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-  [[params.services.item]]
-    icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
-  [[params.services.item]]
-    icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
-  [[params.services.item]]
-    icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
 # Work section
 [params.work]
@@ -137,7 +131,7 @@ title = "CVI"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.team.item]]
-    name = "Jean Doe"
+    name = "Aravinth Muthu"
     position = "Chief legend"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/person1.jpg"
@@ -148,7 +142,7 @@ title = "CVI"
     github = "#"
 
   [[params.team.item]]
-    name = "Alice Doe"
+    name = "Sidharth Ramesh"
     position = "Chief overlord"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
     img = "images/person2.jpg"
@@ -158,16 +152,6 @@ title = "CVI"
     instagram = "#"
     github = "#"
 
-  [[params.team.item]]
-    name = "John Doe"
-    position = "Chief haranguer"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person3.jpg"
-    facebook = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
 
   # [[params.team.item]]
   #   name = "Jason Doe"
@@ -184,16 +168,16 @@ title = "CVI"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  message = "Feel free to drop us a message. We'll ping you back soon"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
+  note = "CVI IITM. Copyrights@2017"
+  github = "iitmcvg"
   twitter = "#"
-  facebook = "#"
+  facebook = "iitmcvg"
   vine = "#"
   linkedin = "#"
   instagram = "#"
