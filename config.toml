@@ -18,7 +18,7 @@ title = "CVI"
 # Navigation section
 [params.nav]
   mission = "Our Mission"
-  services = "Services"
+  services = "What We Do"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
